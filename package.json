@@ -1,0 +1,14 @@
+{
+  "name": "sildes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodeppt serve unittest.md",
+    "build": "nodeppt build unittest.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
